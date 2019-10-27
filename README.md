@@ -1,9 +1,10 @@
 # :ok_hand: How to use
 
 1. [Install docker and docker-compose](https://www.google.com/search?q=install+docker&oq=install+docker&aqs=chrome..69i57j69i59j35i39j69i65l3.2640j0j7&sourceid=chrome&ie=UTF-8)
-2. Enter in the path that have the _docker-compose.yml_ file
-2. Execute this command ```docker-compose up -d```
-3. Go to localhost in your browser and see the magic :open_mouth:
+2. Download this repository
+3. Enter in the path that have the _docker-compose.yml_ file
+4. Execute this command ```docker-compose up -d```
+5. Go to localhost in your browser and see the magic :open_mouth:
 
 ## :running: Create database and the CRUD
 
